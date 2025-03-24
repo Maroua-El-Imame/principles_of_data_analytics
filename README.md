@@ -42,19 +42,21 @@ For more details
 
 ## Resources 
 
-- Setup 
-    - [Sign up](https://github.com/)
-    - [Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
-    - [Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository)  
 
 - Learning 
     - Principles of Data Analytics module at ATU.
     - Lecturer : Ian Mcloughlin  
 
+- Setup 
+    - [Sign up](https://github.com/)
+    - [Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+    - [Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository)  
+
 - Reaserch 
     - The following resources list will be expanding as the course progresses.  
-*
-*
+* *https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris*
+* *https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html*
+
 
 ## Contact
 
