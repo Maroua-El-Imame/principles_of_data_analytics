@@ -93,9 +93,9 @@ Relevant references are cited and included as comments in sections of code where
 - Under the repository name, select the code dropdown menu.
 - Click Create codespace on main.
 <br /> 
-- From menu top left click on View > Explorer
-- Under repository title ( in bold) click on New file
-- Lower case file name, then add .ipynb extension
+- From menu top left click on View > Explorer  
+- Under repository title ( in bold) click on New file  
+- Lower case file name, then add .ipynb extension  
 - Follows steps from coding to committing then lastly syncing changes.  
 
 For more info  
@@ -112,18 +112,18 @@ For more info
 
     
 -   Open VS Code and select "File > New File",  
-    Save the file as .py format (e.g., my_script.py).  
+    Save the file as .py format (e.g., my_script.py).   
     Write a Python script in the file.  
 
--   With Python file open in VS Code, launch the terminal (see vscode menu)  
+-   With Python file open in VS Code, launch the terminal (see vscode menu)   
     Navigate through the terminal until reaching the same directory where Python file is located.  
     Possible to use Cmder for running Python code (CAT). Same as in Vs code, navigate to the directory where the Python file is saved using the cd command.  
 
 -   Cmder is mainly for command-line usage, while VS Code is where would most of coding and debugging run.   
     
--   Lastly, steps to [clone repository using command line](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)  
-    Clone allows to copy the repository from GitHub to the local machine 
-    Changes can be pushed to the remote repository on GitHub and/or pulled from Github into the local machine.
+-   Lastly, steps to [clone repository using command line](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)   
+    Clone allows to copy the repository from GitHub to the local machine   
+    Changes can be pushed to the remote repository on GitHub and/or pulled from Github into the local machine.   
 
 
 ## Contact
