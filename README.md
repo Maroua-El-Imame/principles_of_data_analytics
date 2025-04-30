@@ -18,8 +18,8 @@ It follows the structure outlined in the assignment sheet and addresses each tas
 Combining the course materiel, the tasks proposed in the module and personal research, this notebook aims to demonstrate my ability in terms of :
 
 - Setting up the learning and practice environment.
-- Sourcing and investigating the data.
-- Exploring and visualizing data.
+- Sourcing and investigating the data using the Iris dataset.
+- Exploring and visualizing data using the Iris dataset.
 - Problem solving and decision making.
 - Research skills development. 
 
@@ -117,7 +117,7 @@ For more info
 
 -   With Python file open in VS Code, launch the terminal (see vscode menu)   
     Navigate through the terminal until reaching the same directory where Python file is located.  
-    Possible to use Cmder for running Python code (CAT). Same as in Vs code, navigate to the directory where the Python file is saved using the cd command.  
+    Possible to use Cmder for running Python code for '.py' files. Same as in Vs code, navigate to the directory where the Python file is saved using the cd command.  
 
 -   Cmder is mainly for command-line usage, while VS Code is where would most of coding and debugging run.   
     
