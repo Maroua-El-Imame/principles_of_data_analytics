@@ -75,7 +75,7 @@ Relevant references are cited and included as comments in sections of code where
 [Wikipedia](https://en.wikipedia.org/wiki/Coefficient_of_determination/)  
 
 
-## Environment Setup :
+## Environment Setup  
 | Python in Git     |
 |----------|
 
